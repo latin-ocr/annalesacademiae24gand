@@ -1,0 +1,45 @@
+( 3⁰ )
+sed eas ob causas tum allatas ommittere cogimur, ut tandem reflexioni
+incumbamus, et ad magis generale hoc problema transeamus, scilieet:
+data linea recta, vel curva plana, imo superficie curva, per puncta deli-
+neare ipsius imaginem'et vice versa. Primo de reflexione.
+ἓ ΧΙ. De reflexione. Casus in quo considerando nunc sumus occu—
+
+pati, multum quoad reflexionem differt a praecedenti, vidimus in priori
+
+hypothesi post certum quemdam et determinatum limitem radios jam
+
+n
+
+non refringi sed reflecti, et plume limitem praeberi valore hocce x = ἦ 3
+
+in hypothesi vero praesenti , nunc consideranda, refractio nullum admittit
+limitem, qualiscumque sit valor variabilis x, semper refringuntm· radii,
+ct id ex eo deducimus quod causticae radii in infinitum extenduntur.
+Ast tamen etiam in hac hypothesi quidam radii iu superficie quae duo
+media separat, reflectuntur, quia omnis radius a corpore pellucido par-
+tim effunditur, partim reflectitur, partim refringitur, unde quoque
+sequitur radium refractum minus intensum esse, quam radlum inciden—
+tem, et hi radii reflexi in puncto P, id est, in altero hyperbolae foco
+
+concurrunt.
+
+g XII. Per oculum ducatur verticalis et per verticalem planum
+quodviS, in quo delineatur caustica respondens ad punctum quodlibet
+verticalis; his ita dispositis, ducatur per oculum et puuctum luminosum
+datum in spatio planum verticale, quod prius intersecabit3 nunc pos-
+terius planum, in quo punctum datum continuo manet, circum lineam
+intersectionis agatur : donec cum altero coincidat3 poterit itaque tum
+imaginis locus determinari secundnm leges supra expositas, et hoc de-
+terminato, planum ad positionem suam primitivam veram reduci, et
+locus quem imago in posteriori plano occupabit, postquam hocin
+suam veram positionem reductum fuerit, locus erit quaesitus in spatio.
+Ergo qnoque per puncta delineari poterit imago lineae rectae vel curvae
+planae, et, data imagine, inveniri linea recta vel curva in spatio.
+
+In casu speciali in quo superficies data, cujus imago quaerenda est,
+superficies est revolutionis cujus axis est verticalis, et transit per oculum,
+evidens est superficiem quaesitam in eodem casu versaturam esse. Sat
+
+ 
+

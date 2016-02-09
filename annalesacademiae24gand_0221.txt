@@ -1,0 +1,51 @@
+( 39 )
+
+in hoc casu radium respondentem ad refractum parallelum , directionem
+sequi PB. (fig. 18). Incidentihus ΡΙ sitis infra PB, respondent
+radii refracti divergenteS, dum vero incidentibus PI' respondeant
+refracti convergentes. Attamen quum angulus refractionis K''1'R‘' ma-
+jor est angulo KBR et angulo Knl't, jure concludi potest, radios inter
+A' et Β incidentes reflecti, non vero refringi, et eti eo quod nulli radii
+convergentes existant, deducitur unam tantum existere causticam.
+
+ 
+
+Devenimus tandem ad inaequalitatem (7), scilicet ad α < Vrg- 1 , vel
+
+ 
+
+quod eodem redit, ada < Vnp- 1 et ad u > ζ- , ex quihus¹ discimus angulum
+
+ 
+
+ 
+
+u crescere eo magis, quo punctum luminosum P accedit magis ad cen-
+trum C, et radium refractum parauelum respondere ad punctum Ι inter
+Β et A‘ situm3 pro toto arcu AB radios obtineri divergentes3 et hoc
+limite superato, radios non amplius refringi. Una tantum adhuc caustica
+datur in hoc casu, orta ex intersectionibus consecutivis radiorum di-
+
+vergentium. v
+Est tamen casus quidam qui se enumerationi praecedenti subducit ⁷
+
+ille nempe quo ponitur a = 03 sub hac hypothesi punctum luminosum
+ponitur in centro circuli refringentis3 sed facile videtur tum radios
+refractos coire in puncto unico, quod punctum est ipsum centrum.
+
+S ΠΙ. Transeatur nunc ad investigationem eausticarum3 ponatur
+
+sinu = S, et oritur
+cosu=1s1—„S—2=1 ——gS2—{S4m etc„
+quae series est comoergens, quum nempe S numerus est fractus. Nune
+agatur de evolvenda per seriem quantitate p. Notum est ex antece>-
+dentibus,
+⁴ p = ls{a⁹-{- p2 4- 2ap cosa — n2a³sin³a}·. . . . . (α’)
+
+si loco cosla, ponitur valor modo obtentus, et cujus terminus primus
+est unitas, terminus primus vaToris p, erit [sm = Ua ,1,- ργΤς
+== α -Ξ- ρ 3 termini sequentes non continebunt nisi potentias pares quan-⁸
+titatis S3 poterit igitur Ρ, formam induere sequentem
+
+P=a÷f2÷As= -1-BS44-etm
+

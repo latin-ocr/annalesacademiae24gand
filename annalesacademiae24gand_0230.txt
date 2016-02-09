@@ -1,0 +1,41 @@
+(48)
+
+constantes, ut ipsa, inquam, summa vel differentia sit constans.
+Quum curvae liujus generis aliquam similitudinem habent curn ellipsi
+vel hyperbol&⁷ exinde concludere sas est causticas de quo hic agitur
+non multum discrepare ab evolutis harum curvarum.
+
+Ea est demonstratio Doct. Sturm: animadvertendum est huuc geo-
+metram loco causticarum investigasse curvas quarum evolutae sunt ipsae
+causticae.
+
+g VI. D. Gergomzias in N⁰ XI, ejusdem vol. 151115, refert hanc con-
+clusionem Sturmii, non multum discrepare a conclusionibus de eadem
+caustica obtentis a D. Quetelet qui eas tanquam applicationem specialem
+deduxit ex duobus principiis elegantissimis de causticis planis genera-
+tim, et sic expressis:
+
+1. caustica per reflexionem pro carmi planci qualibet, et pro
+puncto luminoso sito modo quocumque in plano hujus curvae, evo-
+luta est curvoe circumvolventi-s· (de l'enveloppe) omnes circulos quorum
+centra haerent in superficie reflectenti, et qui ipsi transeunt per
+punctum luminosum.
+
+2. caustica per refractionem, pro curvd planci qualibet, et pro
+puncto radiante modo quocumque in plano liujus σαι-ναὶ sito, evo-
+luta est curvae circumagentis omnes circulos quoram centra in su-
+perficie dirimenti sunt sita, et quorum radii se habent ad distantias
+inter lzaec centra et punctum radians, uti se habet sinus anguli re-
+fractionis acl sinum anguli inciclentz'ae.
+
+Quum vero principia haec irrita evadunt quando radii incidentes
+evadunt paralleli, Get-gonnias statuit earum loco aliud substituere prin—
+cipium quod simul binos casus, casum scilicet radiorum parallelorum et
+casum alterum quo ponitur radios ex puncto unico oriri, co1nplectitur3
+sed huic suo principio aliud brevi generale magis substituit quod sufficit
+quidem in illo casu, quo radii plures refractiones vel reflexiones subeunt,
+aut alternatim refringuntur, vicissim reflectuntur, ordine quovis,
+dummodo tamen ab ipsa secunda reflexione seu refractione radii inci-
+dentes desinant ex uno puncto oriri, vel manere paralleli, et solum—
+modo tangentes sint ejusdem causticae, seu normales ad eamdem curvam
+

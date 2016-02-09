@@ -1,0 +1,41 @@
+(υ)
+
+ΜΜἏΜἉΜΜΜΜΜΜἊΜΜιΜΜΜΜυνκωνν-κν Μ
+
+CAPUT PRIMUM.
+
+REPERIRE CURVAM TANGENTEM ALIAS CURVAs NUMERO 1NFIN1TAS, ΕΤ
+
+QUARUM AEQUATloNEs NON NISI QUANTITATE CONSTANTE INTER SE DIFFERUNT.
+
+ἓ Ι. Sit (fig. 3) φ (x, y, A) = V=o aequatio communis curvis
+PQ, P'Q', P''Q'', etc. numero infinitis, quae ad eosdem axes AX et AY
+relatae, inter se nonnisi constanti A differant3 agitur de invenienda
+aequatione curvae AB caeteras omnes tangente in T, T', T''‚ etc.
+
+Considerentur curvae P'Q' et PQ; supponatur earum priorem res-
+pondere ad valorem A constantis, posteriorem vero ad valorem alium
+quemdam A' = Α-Ι- ,κς quo magis aa decrescet, eo propius PQ tendet
+ad P'Q', eo quoque puuctum intersectionis accedet magis ad T', quo-
+cum omnino congruet, quando ponetur a=o. Quum P'Q' respondet
+ad valorem A, erit ejus aequatio:
+
+V=0.........(1)
+
+Et secundum theorema Taylorianum aequatio alterius, scilicet curvae
+
+PQ evadet:
+dV α d—1V α’
+
+νψπῖψῇῑΞ-ι- ..... =0 (2)
+quaequidem hinae aequationes, quando a ad nihilum adducitur revera
+congruunt, quarum autem combinatio, posito οι > ο, praebet punctum
+intersectionis Ι.
+
+Atqui, quum curvae duae per unum idemque punctum transeant,
+notum est per idem punctum quoque transire omnem curvam cujus
+aequatio constat ex combinatione quacumque aequationum duarum cur-
+varum praecedentium, ergo in hoc casu speciali, differentia inter aequa-
+
+tiones (1) et (2), aequatio erit curvae HH‘, quae aeque ac PQ secat curvam
+

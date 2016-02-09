@@ -1,0 +1,39 @@
+(47)
+
+alterutra differet eo minus, quo radius circuli cujus centrum est C,
+erit major ratione habita ad distantiam puncti A ab ejus peripheria , et
+quo simul coessicientes duo minus a se invicem discrepabunt.
+
+His demonstratis, transit auctor ad probandum normalem in puncto M
+curvae de qua agitur, confluere cum radio refracto Ml. Sit itaque,
+inquit, MN haec normalis, quum semper ex puncto quovis sumpto in
+planae curvae cujusdam, duci possunt ad hanc curvam una, pluresve nor—
+males, ponatur normalem MN ad curvam propositam esse eam quae
+transit per punctum fixum P sumptum in hoc plano. Portio PM erit
+minimum vel maximum inter omnes rectas quae duci queunt ex puncto
+
+P ad eamdem curvam. Ergo summa
+ψ p.PM —}- α.ΜΒ 4- b.MA.
+
+in qua p denotat coefficientem constantem arbitrarium, erit quoque vel
+minimum vel maximum. Ex his oritur, secundum theorema alio loeo
+demonstratum, quodsi, puncto M tres applicantur vires secundum direc-
+tiones PM, ΒΜ, AM, et proportionales ad quantitates p, a, b, quoque
+ipsarum vis media sequetur directionem normalis MN. Atqui, quum
+earum una jam lianc directionem sequatur, vis media aliarum duarum
+agentium secundum ΒΜ et AM, quoque sequetur necessario directionem
+ΜΝ, et duze 11ae aliae vires cum media sua angulos efformabunt ΒΜΝ,
+ΑΜΝ, quorum sinus igitur rationem inversam sequentur ipsarum inten-
+sitatum, i. e.‚ se habebunt uti se habet b ad α. Ast Ml cum ΜΒ et
+MA angulos eflicit quorum sinus se habent uti chordae IB et [A quibus
+innituntur, id est, uti b se habet ad α ,· ergo normalis MN congruit
+cum Ml. Eodem modo res demonstraretur pro aequationibus (2) et (ὅ).
+Ex hac proprietate patet curvam quam tangunt radii refracti IK vel
+1M‚ evolutam esse unius aliusve curvarum (1), (a), (3); atqui haec
+curvae nihil est nisi caustica producta his radiis refrenem, unde conclu—
+dendum est causticam productam refractione radiorum luminosarum,
+expuncto quodam per superficiem sphaericam transeuntibus , evolu-
+tam esse carvoe qzcoe eci gaudet proprietate, ut samma productorum
+vel differentia inter eadem prodacta distantiarum qaoe intercedant
+inter puncta saci, et ipsum punctum luminosam ‚ per duos coqfficientes
+

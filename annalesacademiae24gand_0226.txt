@@ -1,0 +1,51 @@
+(44)
+
+ΙΚ directio radii incidentis post refractionem3 sit IL productio radii IK,
+et ducatur radius vel normalis CI. Sinus angulorum AIC et LIC, inci—
+dentiae scilicet et refracti-onis, se habent semper inter se in ratione data.
+Animadvertendum est praeterea angulos semper ejusdem esse debere
+speciei, i. e.‚ ambos acutos vel ambos obtusos esse simul.
+
+Capiatur, in directione rectae CA, punctum B tale, ut productum
+CA per CB adaequet quadratum radii CI, vel Cd t trigona CAI et CIB
+
+. .. ‘ IA CA . IA . .. ⁸ 1
+erunt S1m1l1a‚- unde I-B— = &3 ratio I—B- erit igitui constans. Ponatur
+itaque IA
+a
+ΓΒ = ἵ
+
+et ex triangulo CAI nascetur
+sin CIA CA — ΙΑ a
+
+siuCA1= 'Cl‘' — ff: l—J'
+Si punctum A ita positum est, ratione habita ad superficiem dirimen-
+
+tem, ut ratio Q adaequet rationem quam habet sinus incidentiae acl
+
+CI.
+
+sinus refractionis⁷ formula modo obtenta ostendit angulum refractionis
+fore CIB, quando angulus incidentiae erit CIA, dummodo tamen hi
+anguli ejusdem sint speciei. Haec conditio non adimpletur, nisi punc-
+tum I cadat in arcu 3D, determinato in circulo AD& per perpendicula-
+rem AD ad CA, (fig. 19) vel per tangentem AD (fig. 20, 21 ), prouti A
+extra vel intra circulum ponitur. Casus hic specialis, in quo radii post
+refractionem in puncto unico coeunt, jam supra in demonstratione
+Professoris cle la Rima, quam exposuimUS, notatus fuit.
+
+Ut quaestio quam maxime generaliter solvatur, agatur peripheria
+per tria puncta A, B et I3 haec peripheria secabit rectam IL in
+puncto alio M, et ob relationem supra positam CA. CB = (Τ, CI erit
+tangens in I. His positiS, sinus angulorum CIA et CIM formatorum per
+
+tangentem CI cum chordis ΙΑ et ΙΜ, se habebunt uti chordae hae ipsae.
+
+IA a
+
+sit Ξ ratio data horum sinuum; erit igitur Ι-Νῑ = ἕ , ita ut tres chordae
+
+IA, IB et IM continuo proportionales sint adr tres constantes a, b, c..
+
+ 
+

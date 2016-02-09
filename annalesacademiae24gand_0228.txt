@@ -1,0 +1,48 @@
+(46)
+
+Unde colligitur BG esse constantem. Atqui
+
+BG=MB-MG‚ ΜΟ ΖΞ ΜΑ,
+’ Ο
+mg MB— Ξ MA=BG‚ vel αΜΒ-Ῐὲ, ΜΑΞοΑΒ. , . . (2)
+
+a
+Locus geometricus puncti M, est igitur curva ea gaudens proprietate,
+ut differentia productorum radiorum vectorum, ad puncta A et B rela-
+torum, per duas constantes, sit ipsa quantitas constans.
+
+30 Ponatur nunc Μ situm in arcu BI. (fig. 21.)
+
+Sumatur in ΒΜ, producta si oportet, distantia MG = Ξ. ΑΜ ,et du-
+
+catur AG; triangula AMG et AIB erunt similia, angulus MAG aequalis
+erit angulo IAB, et major angulo MAB, ita ut G revera cadat in ΜΒ
+productam. Dein angulus EAG erit aequalis angulo IAM3 sed praeterea
+anguli ABG et AIM sunt aequales, habent nempe ambo idem supple-
+
+mentum ABM3 ergo triangula ΒΑΘ, ΙΑΜ sunt similia et praebent
+
+BA IA ‚BA a
+ffi=fffi²le¹ffizff³
+
+ergo BG est constans, et magnitudine data. Atqui
+
+BG = MC - ΜΒ, MG = {³7 MA,
+
+igitur ’ἐ ΑΜ- ΜΒ = BG,
+a
+unde
+&MA — (2.inss = c.AB .......... (3)
+
+Locus igitur geometricus puncti M, est curva in qua differentia inter
+producta radiorum vectorum ad puncta A et B relatorum, per duas
+quantitates constantes, ipsa est constans3 ast in hoc casu differentia est
+inversa.
+
+Ex his omnibus igitur patet locum geometricum puncti M curvam
+esse talem, ut summa vel differentia inter producta distantiarum quae
+existunt inter puncta ejus et puncta fixa A et B, per duos coefficientes
+determinatos, est constans et magnitudine data. Erit igitur semper facile
+hanc curvam construere secundum aequationem ipsi propriam, reperie-
+tur curvam hanc esse ejusdem generis ac ellipsis et hyperbola, a quarum
+
